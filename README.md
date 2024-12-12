@@ -32,22 +32,21 @@ We use TensorFlow and Keras for building the model, and the dataset utilized is 
 ### Installing Dependencies
 
 1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/food-calorie-recognition.git
-    cd food-calorie-recognition
-    ```
+    
+    git clone https://github.com/buvan1234/PRODIGY_ML_05
+    
 
 2. Create and activate a virtual environment (optional but recommended):
-    ```bash
+    
     python3 -m venv env
     source env/bin/activate  # For Mac/Linux
     env\Scripts\activate     # For Windows
-    ```
+  
 
 3. Install the required dependencies:
-    ```bash
+    
     pip install -r requirements.txt
-    ```
+    
 
 ### Dataset
 
