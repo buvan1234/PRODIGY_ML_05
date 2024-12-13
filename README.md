@@ -33,7 +33,7 @@ We use TensorFlow and Keras for building the model, and the dataset utilized is 
 
 1. Clone this repository:
     
-    git clone https://github.com/buvan1234/PRODIGY_ML_05
+    git clone https://github.com/buvan1234/PRODIGY_ML_05.GIT
     
 
 2. Create and activate a virtual environment (optional but recommended):
